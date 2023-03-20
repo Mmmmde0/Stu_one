@@ -1,0 +1,10 @@
+com\testa\usermanager\vo\R.class
+com\testa\usermanager\db\mapper\UserMapper.class
+com\testa\usermanager\UserManagerApplication.class
+com\testa\usermanager\vo\QueryParam.class
+com\testa\usermanager\config\MyBatisPlusConfig.class
+com\testa\usermanager\service\UserService.class
+com\testa\usermanager\service\impl\UserServiceImpl.class
+com\testa\usermanager\controller\UserController.class
+com\testa\usermanager\db\entity\User.class
+com\testa\usermanager\handler\MyMetaObjectHandler.class

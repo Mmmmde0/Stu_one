@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0dd319a1-f7b4-4b58-8dfb-5defffe40872" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2MLxqjqd7bjLekZIdhgAHy0uEuw" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PTW_VUE/ant-design-vue-jeecg-master" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.testa.usermanager.interceptor" />
+      <recent name="com.testa.usermanager.config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\yongqi\yongqi\target\classes\com\testa\usermanager\db\mapper" />
+      <recent name="F:\yongqi\yongqi\src\main\resources\mapper" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.UserManagerApplication">
+    <configuration name="UserApplicationTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="yongqi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testa.usermanager.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.testa.usermanager" />
+      <option name="MAIN_CLASS_NAME" value="com.testa.usermanager.UserApplicationTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserApplicationTest.deleteUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="yongqi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testa.usermanager.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.testa.usermanager" />
+      <option name="MAIN_CLASS_NAME" value="com.testa.usermanager.UserApplicationTest" />
+      <option name="METHOD_NAME" value="deleteUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZestTest.Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="yongqi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testa.usermanager.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.testa.usermanager" />
+      <option name="MAIN_CLASS_NAME" value="com.testa.usermanager.ZestTest" />
+      <option name="METHOD_NAME" value="Test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZestTest.testFind" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="yongqi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testa.usermanager.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.testa.usermanager" />
+      <option name="MAIN_CLASS_NAME" value="com.testa.usermanager.ZestTest" />
+      <option name="METHOD_NAME" value="testFind" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.testa.usermanager in yongqi" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="yongqi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testa.usermanager.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.testa.usermanager" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserManagerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="yongqi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testa.usermanager.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.testa.usermanager.UserManagerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.UserApplicationTest" />
+      <item itemvalue="JUnit.com.testa.usermanager in yongqi" />
+      <item itemvalue="JUnit.UserApplicationTest.deleteUser" />
+      <item itemvalue="JUnit.ZestTest.Test" />
+      <item itemvalue="JUnit.ZestTest.testFind" />
+      <item itemvalue="Spring Boot.UserManagerApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.UserManagerApplication" />
+        <item itemvalue="JUnit.ZestTest.testFind" />
+        <item itemvalue="JUnit.ZestTest.Test" />
+        <item itemvalue="JUnit.UserApplicationTest.deleteUser" />
+        <item itemvalue="JUnit.com.testa.usermanager in yongqi" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0dd319a1-f7b4-4b58-8dfb-5defffe40872" name="Default Changelist" comment="" />
+      <created>1677129786491</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677129786491</updated>
+      <workItem from="1677129787597" duration="14569000" />
+      <workItem from="1677560860616" duration="2787000" />
+      <workItem from="1678684991769" duration="614000" />
+      <workItem from="1678686669506" duration="4831000" />
+      <workItem from="1679014990034" duration="5179000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
