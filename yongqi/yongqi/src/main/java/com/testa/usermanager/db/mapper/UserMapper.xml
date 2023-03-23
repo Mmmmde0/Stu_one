@@ -9,7 +9,7 @@
             1 = 1
             <if test="queryParam != null">
                 <if test="queryParam.username != null and queryParam.username != ''">
-                    and username = #{queryParam.username}
+                    and username like CONCAT(#{queryParam.username}, '%')
                 </if>
                 <if test="queryParam.nickname != null and queryParam.nickname != ''">
                     and nickname like CONCAT(#{queryParam.nickname}, '%')

@@ -12,7 +12,7 @@ export default {
      // 删除用户接口
      deleteUser(id) {
         return request({
-            url: '/user/${id}',
+            url: '/user/' + id,
             method: 'delete'
         })
      },
@@ -47,7 +47,7 @@ export default {
      // 根据用户编辑获取用户信息
      getUserInfo(id) {
         return request({
-            url: '/user/${id}',
+            url: '/user/' + id,
             method: 'get'
         })
      }

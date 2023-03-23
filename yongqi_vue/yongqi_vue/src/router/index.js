@@ -29,7 +29,7 @@ const routes = [
 			},
 			{
 				path: "/userInfo",
-				name: "用户信息",
+				name: "用户列表",
 				component: () => import("../views/userInfoList.vue")
 			}
 		],

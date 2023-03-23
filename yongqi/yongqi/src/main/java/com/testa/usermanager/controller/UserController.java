@@ -49,7 +49,7 @@ public class UserController {
     }
 
     //根据用户ID查询用户信息
-    @PostMapping("{id}")
+    @GetMapping("{id}")
     public R getUserInfoById(@PathVariable(value = "id") Integer id) {
         return userService.getUserInfoById(id);
     }
