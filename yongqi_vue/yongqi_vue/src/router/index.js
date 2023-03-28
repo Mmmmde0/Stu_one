@@ -13,8 +13,8 @@ const routes = [
 		children: [
 			{
 				path: "/",
-				name: "数据列表",
-				component: () => import("../views/userList.vue")
+				name: "用户列表",
+				component: () => import("../views/userInfoList.vue")
 			},
       {
 				path: "/addUser",
@@ -29,8 +29,8 @@ const routes = [
 			},
 			{
 				path: "/userInfo",
-				name: "用户列表",
-				component: () => import("../views/userInfoList.vue")
+				name: "数据列表",
+				component: () => import("../views/userList.vue")
 			}
 		],
 	},

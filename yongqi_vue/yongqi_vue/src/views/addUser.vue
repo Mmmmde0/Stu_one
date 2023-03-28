@@ -93,7 +93,7 @@ import user from '@/api/user';
                             })
                         })
                     }
-                    this.$router.push('/userInfo')
+                    this.$router.push('/')
                 }
             })
         },
